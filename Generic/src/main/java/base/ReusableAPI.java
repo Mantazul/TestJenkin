@@ -178,12 +178,13 @@ public class ReusableAPI { //Remember this class is not reading from that TestRu
     }
     //helper method
     public void hoverOver() throws InterruptedException {
+        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         driver.findElement(By.id("NAV_ABOUT_US")).click();
         Thread.sleep(2000);
         WebElement e = driver.findElement(By.linkText("Who we are"));
         Actions ac = new Actions(driver);
         ac.moveToElement(e).build().perform();
-        TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+
 
     }
     //drag drop method
