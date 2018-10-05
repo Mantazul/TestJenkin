@@ -15,6 +15,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Airbnb" target="1.8" />
+      <module name="Geico" target="1.8" />
+      <module name="HomeDepot" target="1.8" />
+      <module name="RestAPI" target="1.8" />
       <module name="SantanderBank" target="1.8" />
     </bytecodeTargetLevel>
   </component>

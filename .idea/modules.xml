@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Airbnb/Airbnb.iml" filepath="$PROJECT_DIR$/Airbnb/Airbnb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geico/Geico.iml" filepath="$PROJECT_DIR$/Geico/Geico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeDepot/HomeDepot.iml" filepath="$PROJECT_DIR$/HomeDepot/HomeDepot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestAPI/RestAPI.iml" filepath="$PROJECT_DIR$/RestAPI/RestAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/SantanderBank/SantanderBank.iml" filepath="$PROJECT_DIR$/SantanderBank/SantanderBank.iml" />
     </modules>
   </component>

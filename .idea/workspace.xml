@@ -2,77 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab8abc6-d572-4b81-843d-1561a128b7c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Airbnb/target/Airbnb-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Airbnb/target/Airbnb-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Airbnb/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Airbnb/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Airbnb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Airbnb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Airbnb/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Airbnb/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/Geico-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/Geico-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/classes/homePage/InsuranceProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/classes/homePage/InsuranceProducts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geico/target/test-classes/homePage/InsuranceProductTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Geico/target/test-classes/homePage/InsuranceProductTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/ReusableAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/ReusableAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonClass 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/GoogleSheetReader 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/ReusableAPI$1 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/ReusableAPI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/ReusableAPI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/ReusableAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/ReusableAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/XlsDataReaderUtil 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/Xls_Reader 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/client_secret 2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/client_secretGeico 2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/User 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ApplicationLog 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentTestManager 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/TestLogger 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/TestLogger$1 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader 2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeDepot/target/HomeDepot-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/HomeDepot/target/HomeDepot-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeDepot/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HomeDepot/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/src/test/java/openWeather/GetRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/src/test/java/openWeather/GetRequestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/target/RestAPI-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/RestAPI-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/screenshots/ScreenShot.png" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/screenshots/ScreenShot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/src/main/java/home/ATMBranchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/src/main/java/home/ATMBranchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/src/main/java/home/BusinessTextOptionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/src/main/java/home/BusinessTextOptionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/src/main/java/home/CorporateTextOptionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/src/main/java/home/CorporateTextOptionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/src/main/java/home/PersonalTextOptionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/src/main/java/home/PersonalTextOptionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/src/test/resources/SantanderBankTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/src/test/resources/SantanderBankTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/SantanderBank-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/SantanderBank-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/classes/home/ATMBranchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/classes/home/ATMBranchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/classes/home/BusinessTextOptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/classes/home/BusinessTextOptionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/classes/home/CorporateTextOptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/classes/home/CorporateTextOptionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/classes/home/PersonalTextOptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/classes/home/PersonalTextOptionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/test-classes/SantanderBankTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/test-classes/SantanderBankTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/test-classes/Search/AboutTextOptionPageTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/test-classes/Search/AboutTextOptionPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/test-classes/Search/AboutTextOptionPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/test-classes/Search/LoginPageTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SantanderBank/target/test-classes/Search/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/SantanderBank/target/test-classes/Search/LoginPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SantanderBank/home/ATMBranchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SantanderBank/home/ATMBranchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SantanderBank/home/BusinessTextOptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SantanderBank/home/BusinessTextOptionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SantanderBank/home/CorporateTextOptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SantanderBank/home/CorporateTextOptionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SantanderBank/home/PersonalTextOptionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SantanderBank/home/PersonalTextOptionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/SantanderBank/SantanderBankTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/SantanderBank/SantanderBankTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -157,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-931">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -170,16 +99,16 @@
         <entry file="file://$PROJECT_DIR$/SantanderBank/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SantanderBank/src/test/resources/SantanderBankTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -229,10 +158,10 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/RestAPI/src/test/java/openWeather/GetRequestTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SantanderBank/src/main/java/home/AboutTextOptionPage.java" />
         <option value="$PROJECT_DIR$/SantanderBank/src/test/java/Search/AboutTextOptionPageTest.java" />
         <option value="$PROJECT_DIR$/SantanderBank/src/test/resources/SantanderBankTestRunner.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -479,7 +408,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538777554728" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538778234859" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -637,7 +566,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -646,7 +575,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3120482" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3120482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -988,17 +917,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-931">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SantanderBank/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1015,7 +937,14 @@
     <entry file="file://$PROJECT_DIR$/SantanderBank/src/test/resources/SantanderBankTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
