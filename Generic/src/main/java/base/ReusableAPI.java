@@ -160,7 +160,7 @@ public class ReusableAPI { //Remember this class is not reading from that TestRu
 
         File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         try {
-            FileUtils.copyFile(file, new File("../SantanderBank/screenshots/ScreenShot.png"));
+            FileUtils.copyFile(file, new File("../SantanderBank/screenshots/"+screenshotName+".png"));
             System.out.println("Screenshot captured");
         } catch (Exception e) {
             System.out.println("Exception while taking screenshot "+e.getMessage());
@@ -213,5 +213,10 @@ public class ReusableAPI { //Remember this class is not reading from that TestRu
         String splitString ;
         splitString = StringUtils.join(StringUtils.splitByCharacterTypeCamelCase(st), ' ');
         return splitString;
+    }
+    public void SendKeys(WebElement element, String keys, String elementName){
+        TestLogger.log("Sending Keys to " + elementName);
+        element.sendKeys(keys);
+        TestLogger.log("Keys Sent Successfully to "+ elementName);
     }
 }
